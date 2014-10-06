@@ -1,0 +1,25 @@
+{
+  "name": "lrc-crawler",
+  "version": "0.0.1",
+  "description": "lrc",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chentsulin/lrc-crawler.git"
+  },
+  "keywords": [
+    "lrc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chentsulin/lrc-crawler/issues"
+  },
+  "homepage": "https://github.com/chentsulin/lrc-crawler"
+}
