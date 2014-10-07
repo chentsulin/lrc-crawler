@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/chentsulin/lrc-crawler/issues"
   },
-  "homepage": "https://github.com/chentsulin/lrc-crawler"
+  "homepage": "https://github.com/chentsulin/lrc-crawler",
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "gulp": "^3.8.8",
+    "gulp-load-plugins": "^0.7.0"
+  }
 }
