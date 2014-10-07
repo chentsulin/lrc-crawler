@@ -17,7 +17,7 @@
     "lrc"
   ],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chentsulin/lrc-crawler/issues"
   },
@@ -25,6 +25,12 @@
   "devDependencies": {
     "mocha": "^1.21.4",
     "gulp": "^3.8.8",
-    "gulp-load-plugins": "^0.7.0"
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-jshint": "^1.8.5",
+    "chai": "^1.9.2"
+  },
+  "dependencies": {
+    "request": "^2.45.0",
+    "debug": "^2.0.0"
   }
 }

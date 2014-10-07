@@ -1,0 +1,1 @@
+console.log(require('./lib/lrc-crawler').getList('周杰倫'));
