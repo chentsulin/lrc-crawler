@@ -27,7 +27,9 @@
     "chai": "^1.9.2",
     "gulp": "^3.8.8",
     "gulp-load-plugins": "^0.7.0",
-    "gulp-jshint": "^1.8.5"
+    "gulp-jshint": "^1.8.5",
+    "gulp-jsdoc": "^0.1.4",
+    "gulp-mocha": "^1.1.1"
   },
   "dependencies": {
     "request": "^2.45.0",
