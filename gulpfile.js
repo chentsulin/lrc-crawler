@@ -21,4 +21,9 @@ gulp.task('lint', function() {
         .pipe(jshint.reporter('fail'));
 });
 
+gulp.task('test', function() {
+    return gulp.src('./test/*.js')
+        .pipe(mocha({reporter: 'nyan'}));
+});
+
 gulp.task('build', [ 'lint' ]);
