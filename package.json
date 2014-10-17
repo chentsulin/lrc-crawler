@@ -30,7 +30,9 @@
     "gulp-jshint": "^1.8.5",
     "gulp-jsdoc": "^0.1.4",
     "gulp-mocha": "^1.1.1",
-    "jshint-stylish": "^1.0.0"
+    "jshint-stylish": "^1.0.0",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.6.0"
   },
   "dependencies": {
     "request": "^2.45.0",
